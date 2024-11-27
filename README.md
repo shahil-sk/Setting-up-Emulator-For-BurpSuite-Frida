@@ -21,7 +21,8 @@ Setting up Android Studio Emulator For BurpSuite &amp; Frida to pentest and app 
 	- Look for your android emulator ramdisk.img
 		- ex: "system-images\android-31\google_apis_playstore\x86_64\ramdisk.img"
 
-![[Pasted image 20241127064755.png]]
+![image](https://github.com/user-attachments/assets/8d604695-cdbc-42ff-bd0f-b2384b1c1a5e)
+
 
 - copy the full ramdisk.img path
 - run `rootAVD.bat <ramdisk.img PATH>`
@@ -43,7 +44,7 @@ Setting up Android Studio Emulator For BurpSuite &amp; Frida to pentest and app 
 - Reboot AVD
 - Got to Emulator settings
 
-![[Pasted image 20241127070605.png]]
+![image](https://github.com/user-attachments/assets/40d82575-379b-4c72-9424-e93d393996f8)
 
 - Settings > Proxy 
 - set Proxy to Manual Proxy
